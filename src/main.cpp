@@ -121,7 +121,7 @@ class $modify(MyCommentListLayer, GJCommentListLayer) {
         std::vector<std::string> susWords = {
             "discord gg", ".gg/", ".gg", "discord.gg", "pU763A4kp7", "dsc.gg", "boost your", "boost youtube", "boost view", "boost like",
             "trade", "giftcard", "approved by robtop", "you want to get free", "to get free", "join my server", "check out my server", "join us",
-            "free reward", "win a prize", "limited time", "get free", "free creator points", "official geometry", "official gd disc", "official gd serv"
+            "free reward", "win a prize", "limited time", "get free", "free creator points", "official geometry", "official gd disc", "official gd serv", "check my level", "check my new level", "check out my new l", "check out my l", "my level"
         };
 
         // check if the message contains ANY (even one!) banned word/phrase
