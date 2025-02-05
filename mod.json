@@ -1,0 +1,11 @@
+{
+	"geode": "4.2.0",
+	"gd": {
+		"win": "2.2074"
+	},
+	"id": "7owh.bot_comment_removal",
+	"name": "BotCommentRemoval",
+	"version": "v1.0.0",
+	"developer": "7owh",
+	"description": "Removes spam advertisement comments."
+}
